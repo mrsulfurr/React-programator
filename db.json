@@ -1,0 +1,32 @@
+{
+  "auctions": [
+    {
+      "id": 1,
+      "title": "Komputer",
+      "amount": 1,
+      "description": "Atari ST",
+      "price": 420
+    },
+    {
+      "id": 2,
+      "title": "Aparat Nikon",
+      "amount": 1,
+      "description": "OM-D E1",
+      "price": 5500
+    },
+    {
+      "id": 3,
+      "title": "Książka kucharska",
+      "amount": 5,
+      "description": "Najlepsze przepisy na każdą okazję",
+      "price": 70
+    },
+    {
+      "id": 4,
+      "title": "Zegar z kukułką",
+      "amount": 1,
+      "description": "Antyk",
+      "price": 2500
+    }
+  ]
+}

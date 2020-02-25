@@ -1,0 +1,20 @@
+{
+    "users" : [
+        {
+            "login": "programator",
+            "firstName": "John",
+            "lastName": "Deer",
+            "email": "testowy@gnail.com",
+            "pass": "12345678"
+        },
+        {
+            "login": "angularek",
+            "firstName": "Jan",
+            "lastName": "Jeleń",
+            "email": "poczta@gnail.com",
+            "pass": "password1"
+        }
+
+    ]
+
+}
