@@ -18,7 +18,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "api": "json-server ./usersdb.json"
+    "api": "json-server ./usersdb.json --port 4000"
   },
   "eslintConfig": {
     "extends": "react-app"
